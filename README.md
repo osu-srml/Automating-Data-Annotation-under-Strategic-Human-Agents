@@ -4,7 +4,7 @@ This is the code for our NeurIPS 2024 paper ```Automating Data Annotation under 
 
 The experiments have been done on 5 datasets by directly running the following notebooks:
 
-- ```Uniform_Exp.ipynb```: This notebook produces all results for the ```uniform-linear dataset```
+- ```Uniform_Exp.ipynb```: This notebook produces all results for the ```Uniform-linear dataset```
 - ```Gaussian_Exp.ipynb```: This notebook produces all results for the ```Gaussian dataset```.
 - ```German_Exp_10d.ipynb```: This notebook produces all results for the ```German Credit dataset```.
 - ```Credit_Exp.ipynb```: This notebook produces all results for the ```Credit Approval dataset```.
