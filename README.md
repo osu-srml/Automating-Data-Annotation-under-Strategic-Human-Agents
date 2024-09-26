@@ -1,6 +1,6 @@
 # Automating-Data-Annotation-under-Strategic-Human-Agents
 
-This is the code for our paper ```Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions```
+This is the code for our NeurIPS 2024 paper ```Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions```
 
 The experiments have been done on 5 datasets by directly running the following notebooks:
 
